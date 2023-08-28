@@ -15,7 +15,7 @@ The repository is organized into the following directories:
 To get started with this repository, simply clone it to your local machine and navigate to the directory of the assignment or project you want to work on.
 
 ```bash
-git clone https://github.com/<your-username>/sprints_backend_summer_program.git
+git clone https://github.com/abdallagaber/sprints_backend_summer_program.git
 cd sprints_backend_summer_program/assignments/<assignment-name>
 ```
 
